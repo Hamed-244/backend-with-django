@@ -41,8 +41,8 @@ To get started with the Django Backend Path:
 
 ## Contributing
 
-We welcome contributions! Please refer to the `CONTRIBUTING.md` file for guidelines on how to contribute to this project.
+We welcome contributions! Please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to contribute to this project.
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE.md` file for details.
+This project is licensed under the MIT License. See the [LICENSE.md](./LICENSE.md) file for details.
