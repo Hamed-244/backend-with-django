@@ -29,12 +29,12 @@ To get started with the Django Backend Path:
 
 1. **Clone the Repository**: Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/Hamed-244/backend-with-django.git
+    git clone https://github.com/Hamed-244/django-backend-roadmap.git
     ```
 
 2. **Navigate to the Course**: Navigate to the directory of the course you want to start with.
     ```bash
-    cd backend-with-django/courses/basic
+    cd django-backend-roadmap/courses/basic
     ```
 
 3. **Follow the Course README**: Each course has its own README file with detailed instructions and tasks. Follow the instructions in the respective README file to proceed.
